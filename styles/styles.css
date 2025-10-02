@@ -1,1 +1,7 @@
-/* CSS */
+body {
+    margin: 0;
+    width: 100vw;
+    background-image: linear-gradient(to right, #e2e8f0 1px, transparent 1px),
+        linear-gradient(to bottom, #e2e8f0 1px, transparent 1px);
+    background-size: 20px 30px;
+}
