@@ -1,7 +1,6 @@
 body {
     margin: 0;
     width: 100vw;
-
 }
 
 nav {
@@ -19,12 +18,12 @@ main {
     justify-content: center;
 }
 
-img {
+img, p {
     width: 90%;
 }
 
-p {
-    width: 90%;
+.searchbar{
+    display: flex;
 }
 
 /* Groter dan mobiel */
