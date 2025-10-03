@@ -1,7 +1,29 @@
 body {
     margin: 0;
     width: 100vw;
-    background-image: linear-gradient(to right, #e2e8f0 1px, transparent 1px),
-        linear-gradient(to bottom, #e2e8f0 1px, transparent 1px);
-    background-size: 20px 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav{
+    background-color: #3c2d49;
+    height: auto;
+}
+
+nav img{
+        width: 100px;
+    }
+
+img{
+    width: 90%;
+}
+
+p{
+    width: 90%;
+}
+
+/* Groter dan mobiel */
+@media screen and (min-width: 480px) {
+
 }
