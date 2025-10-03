@@ -18,12 +18,23 @@ main {
     justify-content: center;
 }
 
-img, p {
+img,
+p {
     width: 90%;
 }
 
-.searchbar{
+.searchbar {
     display: flex;
+}
+
+.tags {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+button {
+    width: auto;
 }
 
 /* Groter dan mobiel */
