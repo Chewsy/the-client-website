@@ -18,24 +18,45 @@ main {
     justify-content: center;
 }
 
-img,
-p {
-    width: 90%;
-}
-
 .searchbar {
     display: flex;
 }
 
 .tags {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     width: 100%;
+    padding-bottom: 20px;
 }
 
-button {
+.tags button {
     width: auto;
+    background-color: #3c2d49;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
 }
 
-/* Groter dan mobiel */
-@media screen and (min-width: 480px) {}
+.tags button:hover {
+    background-color: #614d72;
+    cursor: pointer;
+}
+
+.searchbar {
+    padding-bottom: 20px;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+img,
+p {
+    width: 90%;
+}
