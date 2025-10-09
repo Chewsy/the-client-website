@@ -16,10 +16,10 @@ De instructie van deze leertaak staan in de [INSTRUCTIONS](https://github.com/fd
 ## Beschrijving
 <img width="1271" height="684" alt="Screenshot 2025-10-09 at 10 40 11" src="https://github.com/user-attachments/assets/e4cff0b2-dc5a-4d10-81ce-e2660311456f" />
 
-[Bekijk de website](https://edu.nl/rydep)
-<img width="320" height="346" alt="image" src="https://github.com/user-attachments/assets/0b1b73f1-065a-4e99-9f14-6eebde1b33ab" />
+[Bekijk de website](https://edu.nl/rydep)  
+<img width="320" height="346" alt="image" src="https://github.com/user-attachments/assets/0b1b73f1-065a-4e99-9f14-6eebde1b33ab" />  
 
-Civic Interaction Design is een interdisciplinaire onderzoeksgroep aan de Hogeschool van Amsterdam. Ze onderzoeken hoe design en technologie kunnen bijdragen aan het maatschappelijk leven: de talrijke en gevarieerde interacties waarmee mensen in een samenleving samenkomen om te streven naar collectief welzijn.
+Civic Interaction Design is een interdisciplinaire onderzoeksgroep aan de Hogeschool van Amsterdam. Ze onderzoeken hoe design en technologie kunnen bijdragen aan het maatschappelijk leven: de talrijke en gevarieerde interacties waarmee mensen in een samenleving samenkomen om te streven naar collectief welzijn.  
 
 De website bestaat uit een overzichtspagina met aangeleverde artiekelen als previews die linken naar de aangeklikte blog post.
 
